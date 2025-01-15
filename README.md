@@ -20,6 +20,7 @@ Before running the app, make sure to install the following dependencies:
 - Streamlit
 - Scikit-learn
 - NumPy
+- Pandas
 
 ### To install the requirements, run:
 
