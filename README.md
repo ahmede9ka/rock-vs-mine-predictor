@@ -6,8 +6,6 @@ This is a machine learning-based web application built with **Streamlit** to pre
 
 - Input up to 60 features using a number input field.
 - Automatically generate random values for all features with a click of a button.
-- Reset all feature values to 0 with a click.
-- Set all feature values to 100 with a click.
 - Predict the object type (Rock or Mine) based on the input values.
 
 ## Requirements
