@@ -2,6 +2,10 @@
 
 This is a machine learning-based web application built with **Streamlit** to predict whether an object is a **Rock** or a **Mine** based on 60 input features. The model is trained using a machine learning algorithm and deployed as a user-friendly web interface.
 
+![image](https://github.com/user-attachments/assets/4ef1d29a-e734-40f4-9c11-c2aa4d5b4749)
+
+![image](https://github.com/user-attachments/assets/cda8d763-0256-4017-b4e8-edd5ddfbca74)
+
 ## Features
 
 - Input up to 60 features using a number input field.
